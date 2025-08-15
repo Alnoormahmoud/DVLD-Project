@@ -1,0 +1,10 @@
+C:\Users\Al Noor\Downloads\BussenessPeople\bin\Debug\BussenessPeople.dll
+C:\Users\Al Noor\Downloads\BussenessPeople\bin\Debug\BussenessPeople.pdb
+C:\Users\Al Noor\Downloads\BussenessPeople\bin\Debug\DataAccesses.dll
+C:\Users\Al Noor\Downloads\BussenessPeople\bin\Debug\DataAccesses.pdb
+C:\Users\Al Noor\Downloads\BussenessPeople\obj\Debug\BussenessPeople.csproj.AssemblyReference.cache
+C:\Users\Al Noor\Downloads\BussenessPeople\obj\Debug\BussenessPeople.csproj.CoreCompileInputs.cache
+C:\Users\Al Noor\Downloads\BussenessPeople\obj\Debug\Bussenes.149C2656.Up2Date
+C:\Users\Al Noor\Downloads\BussenessPeople\obj\Debug\BussenessPeople.dll
+C:\Users\Al Noor\Downloads\BussenessPeople\obj\Debug\BussenessPeople.pdb
+C:\Users\Al Noor\Downloads\BussenessPeople\bin\Debug\FontAwesome.Sharp.dll
