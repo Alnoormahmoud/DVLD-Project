@@ -1,8 +1,8 @@
-C:\Users\Al Noor\Downloads\DataAccesses\bin\Debug\DataAccesses.dll
-C:\Users\Al Noor\Downloads\DataAccesses\bin\Debug\DataAccesses.pdb
-C:\Users\Al Noor\Downloads\DataAccesses\obj\Debug\DataAccesses.csproj.AssemblyReference.cache
-C:\Users\Al Noor\Downloads\DataAccesses\obj\Debug\DataAccesses.csproj.CoreCompileInputs.cache
-C:\Users\Al Noor\Downloads\DataAccesses\obj\Debug\DataAccesses.dll
-C:\Users\Al Noor\Downloads\DataAccesses\obj\Debug\DataAccesses.pdb
-C:\Users\Al Noor\Downloads\DataAccesses\bin\Debug\FontAwesome.Sharp.dll
-C:\Users\Al Noor\Downloads\DataAccesses\obj\Debug\DataAcce.448C2FCC.Up2Date
+C:\Users\Al Noor\Downloads\DVLD\DataAccesses\bin\Debug\DataAccesses.dll
+C:\Users\Al Noor\Downloads\DVLD\DataAccesses\bin\Debug\DataAccesses.pdb
+C:\Users\Al Noor\Downloads\DVLD\DataAccesses\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Al Noor\Downloads\DVLD\DataAccesses\obj\Debug\DataAccesses.csproj.AssemblyReference.cache
+C:\Users\Al Noor\Downloads\DVLD\DataAccesses\obj\Debug\DataAccesses.csproj.CoreCompileInputs.cache
+C:\Users\Al Noor\Downloads\DVLD\DataAccesses\obj\Debug\DataAcce.448C2FCC.Up2Date
+C:\Users\Al Noor\Downloads\DVLD\DataAccesses\obj\Debug\DataAccesses.dll
+C:\Users\Al Noor\Downloads\DVLD\DataAccesses\obj\Debug\DataAccesses.pdb

@@ -5,8 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DataAccesses;
+ 
 
-namespace BussenessAccessess
+namespace BussenessAccesses
 {
     public class clsBuessenessCountriesManagement
     {
@@ -14,12 +15,12 @@ namespace BussenessAccessess
         public int ID { set; get; }
         public string CountryName { set; get; }
 
-
         public clsBuessenessCountriesManagement()
 
         {
             this.ID = -1;
             this.CountryName = "";
+
         }
 
         private clsBuessenessCountriesManagement(int ID, string CountryName)
@@ -27,15 +28,23 @@ namespace BussenessAccessess
         {
             this.ID = ID;
             this.CountryName = CountryName;
-
         }
-        public static DataTable GetAllCountries()
+
+        public static clsBuessenessCountriesManagement Find(int ID)
         {
-            return clsDataCountriesManagement.GetAllCountries();
+            string CountryName = "";
+
+            if (clsDataCountriesManagement.GetCountryInfoByID(ID, ref CountryName))
+
+                return new clsBuessenessCountriesManagement(ID, CountryName);
+            else
+                return null;
+
         }
 
         public static clsBuessenessCountriesManagement Find(string CountryName)
         {
+
             int ID = -1;
 
             if (clsDataCountriesManagement.GetCountryInfoByName(CountryName, ref ID))
@@ -46,17 +55,9 @@ namespace BussenessAccessess
 
         }
 
-        public static clsBuessenessCountriesManagement Find(int ID)
+        public static DataTable GetAllCountries()
         {
-            string CountryName = "";
-
-            int CountryID = -1;
-
-            if (clsDataCountriesManagement.GetCountryInfoByID(ID, ref CountryName))
-
-                return new clsBuessenessCountriesManagement(ID, CountryName);
-            else
-                return null;
+            return clsDataCountriesManagement.GetAllCountries();
 
         }
 
